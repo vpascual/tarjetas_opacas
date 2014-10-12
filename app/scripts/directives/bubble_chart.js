@@ -107,7 +107,7 @@ angular.module('tarjetasOpacasApp')
 
         var svg = d3.select(element[0]).append("svg")
             .attr("width", diameter)
-            .attr("height", diameter)
+            .attr("height", diameter * 0.8)
             .attr("class", "bubble");
       }
     };
