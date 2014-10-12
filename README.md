@@ -1,4 +1,4 @@
-Targetas Opacas
+Tarjetas Opacas
 ===============
 
 Visualización de los datos relacionados con las tarjetas opacas de Caja Madrid.
