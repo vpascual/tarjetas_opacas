@@ -11,7 +11,8 @@
 angular
   .module('tarjetasOpacasApp', [
     'ngResource',
-    'ngRoute'
+    'ngRoute',
+    'angular-loading-bar'
   ])
   .config(function ($routeProvider) {
     $routeProvider
